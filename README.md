@@ -10,7 +10,7 @@ The Card Matching Game is a memory challenge to test your focus and your ability
 I chose this game as a practice for JavaScript specially, HTML, and CSS to learn or test my ability to web development skills.
 
 ## Getting Started
-Give it a try [Cards Matching Game](link required).
+Give it a try [Cards Matching Game](https://a7mdabdulla.github.io/Card-Matching-Game/).
 
 ## Attributions
 - Emoji icons sourced from [getemoji](https://getemoji.com/).
