@@ -1,5 +1,5 @@
 body {
-    background: url("./image/backImg.jpg");
+    background: url("../image/backImg.jpg");
     background-size: cover;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -29,7 +29,7 @@ h1 {
 .card {
     width: 80px;
     height: 110px;
-    background: url("./image/cardBack.jpg");
+    background: url("../image/cardBack.jpg");
     background-size: cover;
     border-radius: 5px;
     display: flex;

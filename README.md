@@ -1,5 +1,5 @@
 # Cards Matching Game
-![Cards Matching Game ScreenShot](screenshot.png)
+![Cards Matching Game ScreenShot](image/screenshot.png)
 
 ## Game's Name: Cards Matching Game ##
 
