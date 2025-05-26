@@ -108,7 +108,6 @@ const handleFlip = (event) => {
 
             if (strikes >= maxStrikes) {
             updateMsg("You Lost! Try Again..")
-
             lock = true
         }
         }, 1000)
