@@ -131,3 +131,4 @@ boardEl.addEventListener('click', handleFlip)
 resetEl.addEventListener('click', reset)
 
 
+init()
